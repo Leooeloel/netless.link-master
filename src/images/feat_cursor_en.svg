@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="116px" viewBox="0 0 101 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 19</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-EN" transform="translate(-452.000000, -1791.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1597.000000)">
+                <g id="编组-19" transform="translate(452.000000, 194.000000)">
+                    <text id="Cursor" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="0.392" y="17">Cursor</tspan>
+                    </text>
+                    <path d="M34.8776342,97.2014427 C48.0616159,70.341098 43.0634678,55.3166404 64.938138,49.4561741 C65.643295,49.2672547 66.774716,49.3148554 67.06484,49.9799249 C67.4453594,50.8522136 66.7192795,53.6344036 66.3740407,52.7477847 C60.182247,36.8464407 79.0254209,34.4321457 89.8776342,30.2014427" id="路径-68" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(62.377634, 63.701443) scale(-1, 1) translate(-62.377634, -63.701443) "></path>
+                    <path d="M94.9611548,101.200143 C74.2648918,102.346306 96.6582044,130.679635 99.6534279,102.362918" id="路径-70" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

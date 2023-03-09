@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="116px" viewBox="0 0 124 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 27</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-429.000000, -1738.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1595.000000)">
+                <g id="编组-27" transform="translate(429.000000, 143.000000)">
+                    <text id="光标工具" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="0" y="17">光标工具</tspan>
+                    </text>
+                    <path d="M57.8776342,97.2014427 C71.0616159,70.341098 66.0634678,55.3166404 87.938138,49.4561741 C88.643295,49.2672547 89.774716,49.3148554 90.06484,49.9799249 C90.4453594,50.8522136 89.7192795,53.6344036 89.3740407,52.7477847 C83.182247,36.8464407 102.025421,34.4321457 112.877634,30.2014427" id="路径-68" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(85.377634, 63.701443) scale(-1, 1) translate(-85.377634, -63.701443) "></path>
+                    <path d="M117.961155,101.200143 C97.2648918,102.346306 119.658204,130.679635 122.653428,102.362918" id="路径-70" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

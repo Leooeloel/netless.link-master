@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="217px" viewBox="0 0 142 217" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 27</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-EN" transform="translate(-337.000000, -1921.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1559.000000)">
+                <g id="编组-27" transform="translate(337.000000, 363.000000)">
+                    <text id="Tools-bar" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="12.976" y="50">Tools bar</tspan>
+                    </text>
+                    <text id="File-Upload" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="0.576" y="162">File Upload</tspan>
+                    </text>
+                    <path d="M132.42697,1.78725126 C111.798406,-6.61566348 110.105415,16.4526897 110.033702,32.6672743 C109.786483,88.5644996 110.942131,144.462089 112.100316,200.34786 C112.167761,203.602289 112.831917,206.84502 113.708356,209.979938 C116.574714,220.23256 122.726472,211.686316 127.237025,209.038548 C143.641381,199.408926 137.576433,184.001461 139.036358,165.556742 C143.615761,107.700471 136,43 136.036358,16.556742" id="路径-66" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M130.597532,189.584232 C126.407388,180.242271 117.685744,186.909885 116.364564,194.224494 C113.223239,211.616183 131.320003,203.57759 134.74205,193.922302" id="路径-71" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M83,79.7069656 C86.5384157,71.6846669 93.5482537,57.2495456 105.544095,62.7423661 C106.661769,63.2541419 105.042226,67.5736781 104.836727,66.3617047 C102.694358,53.7265969 103.120533,51.8264007 113.228887,47" id="路径-67" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(98.114444, 63.353483) scale(-1, 1) translate(-98.114444, -63.353483) "></path>
+                    <path d="M81,188.684956 C89.3417281,180.954009 93.9364067,170.651115 105.665847,171.502476 C106.209745,171.541954 105.944178,172.849513 105.474893,173.127281 C102.107703,175.120304 99.5719779,172.828311 103.202652,168.833638 C106.116811,165.627316 110.117676,163.611213 113.575189,161" id="路径-69" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(97.287594, 174.842478) scale(-1, 1) translate(-97.287594, -174.842478) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

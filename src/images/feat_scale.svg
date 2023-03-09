@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="139px" height="76px" viewBox="0 0 139 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 30</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-501.000000, -2184.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1595.000000)">
+                <g id="编组-30" transform="translate(502.075535, 590.404250)">
+                    <text id="页面缩放" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="70.9244649" y="68.5957501">页面缩放</tspan>
+                    </text>
+                    <path d="M41.8100656,0.854850316 C31.0671251,1.16171206 19.7219234,-1.78427687 9.58124396,1.77543555 C-4.76359176,6.81094527 -2.01847748,25.9911771 11.3023381,26.5978822 C33.9637618,27.6300113 63.7561992,28.0936505 86.4667879,21.4963057 C89.1543051,20.7155916 85.4429954,14.7083301 84.9191373,14.2700452 C81.9378527,11.775759 78.8122299,9.32944788 75.2796761,7.70754 C63.8816998,2.47436638 56.7378539,3.40810534 44.0831773,2.64598897" id="路径-74" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M60.9244649,45.0730464 C74.1447855,36.2594994 65.6456995,40.9626155 87.709826,33.5957501" id="路径-75" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(74.317145, 39.334398) scale(1, -1) translate(-74.317145, -39.334398) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

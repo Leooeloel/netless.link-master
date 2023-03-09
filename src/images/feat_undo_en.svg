@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="75px" viewBox="0 0 102 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 28</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-EN" transform="translate(-444.000000, -2238.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1597.000000)">
+                <g id="编组-28" transform="translate(445.847397, 642.884189)">
+                    <text id="Undo-redo" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="34.1526034" y="67.1158113">Undo redo</tspan>
+                    </text>
+                    <path d="M26.1410763,0.225177031 C21.2018426,0.261654992 16.212344,-0.369203248 11.3233762,0.334610909 C4.54070091,1.31104255 -6.31567601,22.4863896 4.73616275,26.018036 C12.9099796,28.6300024 30.6052869,29.0477829 37.4974887,28.1008098 C55.3371988,25.6496736 38.0326005,4.89767694 31.1362033,1.88610089" id="路径-73" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M28.1526034,44.845966 C40.1620676,34.601962 34.046193,37.4364961 45.2935001,34.1158113" id="路径-76" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(36.723052, 39.480889) scale(1, -1) translate(-36.723052, -39.480889) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

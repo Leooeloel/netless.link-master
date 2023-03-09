@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="71px" viewBox="0 0 106 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 31</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-884.000000, -2188.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1595.000000)">
+                <g id="编组-31" transform="translate(884.000000, 594.000000)">
+                    <text id="多分页预览" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="0.3" y="65">多分页预览</tspan>
+                    </text>
+                    <path d="M64,32 C78.3858079,38.7064664 73.8098952,33.889 80,44" id="路径-62" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(72.000000, 38.000000) scale(1, -1) translate(-72.000000, -38.000000) "></path>
+                    <path d="M93.696182,3.6950256 C73.8684488,-6.1337274 66.6937268,15.8667648 79.2256697,22.8634962 C102.827008,36.0404014 117.213789,3.66782378 90.9247276,0" id="路径-63" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

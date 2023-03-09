@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="134px" height="217px" viewBox="0 0 134 217" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 28</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-345.000000, -1868.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1557.000000)">
+                <g id="编组-28" transform="translate(345.000000, 312.000000)">
+                    <text id="工具栏" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="16" y="50">工具栏</tspan>
+                    </text>
+                    <text id="文件上传" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="0" y="162">文件上传</tspan>
+                    </text>
+                    <path d="M124.42697,1.78725126 C103.798406,-6.61566348 102.105415,16.4526897 102.033702,32.6672743 C101.786483,88.5644996 102.942131,144.462089 104.100316,200.34786 C104.167761,203.602289 104.831917,206.84502 105.708356,209.979938 C108.574714,220.23256 114.726472,211.686316 119.237025,209.038548 C135.641381,199.408926 129.576433,184.001461 131.036358,165.556742 C135.615761,107.700471 128,43 128.036358,16.556742" id="路径-66" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M75,79.7069656 C78.5384157,71.6846669 85.5482537,57.2495456 97.5440949,62.7423661 C98.6617686,63.2541419 97.0422257,67.5736781 96.8367273,66.3617047 C94.6943584,53.7265969 95.1205327,51.8264007 105.228887,47" id="路径-67" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(90.114444, 63.353483) scale(-1, 1) translate(-90.114444, -63.353483) "></path>
+                    <path d="M73,188.684956 C81.3417281,180.954009 85.9364067,170.651115 97.6658469,171.502476 C98.2097451,171.541954 97.9441782,172.849513 97.4748928,173.127281 C94.1077032,175.120304 91.5719779,172.828311 95.2026519,168.833638 C98.1168106,165.627316 102.117676,163.611213 105.575189,161" id="路径-69" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(89.287594, 174.842478) scale(-1, 1) translate(-89.287594, -174.842478) "></path>
+                    <path d="M122.597532,189.584232 C118.407388,180.242271 109.685744,186.909885 108.364564,194.224494 C105.223239,211.616183 123.320003,203.57759 126.74205,193.922302" id="路径-71" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 5备份 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="加入我们-人在-Netless" transform="translate(-206.000000, -1750.000000)">
+            <g id="编组-5备份-2" transform="translate(206.000000, 1750.000000)">
+                <rect id="矩形备份-7" fill="#FFFFFF" x="0" y="0" width="120" height="120"></rect>
+                <circle id="椭圆形" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="39" cy="30" r="8"></circle>
+                <path d="M26,44 L64.5,44 C66.4329966,44 68,45.5670034 68,47.5 L68,48.0684508 C68,49.8135702 66.8686411,51.3572712 65.2045255,51.8827814 L51.7954745,56.1172186 C50.1313589,56.6427288 49,58.1864298 49,59.9315492 L49,94 C49,96.209139 47.209139,98 45,98 L33,98 C30.790861,98 29,96.209139 29,94 L29,77.3212901 C29,75.8858628 28.2308557,74.560489 26.9845558,73.8483176 L24.0154442,72.1516824 C22.7691443,71.439511 22,70.1141372 22,68.6787099 L22,48 C22,45.790861 23.790861,44 26,44 Z" id="路径-91" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M57,26 L94,26 C96.209139,26 98,27.790861 98,30 L98,62 C98,64.209139 96.209139,66 94,66 L57,66 L57,66" id="路径-92" stroke="#A9CAFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="路径-93" stroke="#3381FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="75 45 81 50 90 42"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

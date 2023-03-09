@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="118px" height="71px" viewBox="0 0 118 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 30</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-EN" transform="translate(-872.000000, -2241.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1597.000000)">
+                <g id="编组-30" transform="translate(872.000000, 645.000000)">
+                    <text id="Pages-preview" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="0.616" y="65">Pages preview</tspan>
+                    </text>
+                    <path d="M76,32 C90.3858079,38.7064664 85.8098952,33.889 92,44" id="路径-62" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(84.000000, 38.000000) scale(1, -1) translate(-84.000000, -38.000000) "></path>
+                    <path d="M105.696182,3.6950256 C85.8684488,-6.1337274 78.6937268,15.8667648 91.2256697,22.8634962 C114.827008,36.0404014 129.213789,3.66782378 102.924728,0" id="路径-63" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

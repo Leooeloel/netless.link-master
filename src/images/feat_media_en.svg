@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="312px" height="95px" viewBox="0 0 312 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 32</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-EN" transform="translate(-1083.000000, -1938.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1597.000000)">
+                <g id="编组-32" transform="translate(1084.000000, 342.485020)">
+                    <text id="Audio-video-plugin" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="188" y="23.5149797">Audio-video plugin</tspan>
+                    </text>
+                    <path d="M45.200175,18.4586054 C21.877721,32.7241612 21.8056986,70.6057398 48.8978822,81.9130039 C80.6934408,95.1832809 132.114295,95.4391374 163.266523,81.6942962 C189.345025,70.1880613 185.560298,20.9192975 159.12287,10.0683294 C109.729728,-10.2045742 49.160916,4.4189224 0,16.6166004" id="路径-72" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" transform="translate(90.500000, 45.967162) scale(-1, 1) translate(-90.500000, -45.967162) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

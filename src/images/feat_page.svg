@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="73px" viewBox="0 0 116 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 32</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-979.000000, -2186.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1595.000000)">
+                <g id="编组-32" transform="translate(980.000000, 592.000000)">
+                    <text id="分页控制" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="49.04" y="67">分页控制</tspan>
+                    </text>
+                    <path d="M39,46 C47.7720643,33.1914128 41.8209289,37.9134144 57,32" id="路径-65" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4" transform="translate(48.000000, 39.000000) scale(1, -1) translate(-48.000000, -39.000000) "></path>
+                    <path d="M24.6669348,0 C19.199141,0.699882424 13.4684117,0.22101739 8.26355347,2.09964727 C-6.39315399,7.38980645 0.459916982,23.8828188 13.1966616,24.7635443 C32.9684554,26.1307323 52.840085,26.3469614 72.6386457,25.4972501 C75.1805441,25.3881573 102.803059,17.4065278 87.305783,8.72934207 C82.7631112,6.18582365 65.930245,3.47728324 61.3896217,3.27435699 C49.2500108,2.7318223 37.0884556,3.12410343 24.9378714,3.04897664" id="路径-64" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

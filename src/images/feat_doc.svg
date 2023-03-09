@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="46px" viewBox="0 0 108 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 35</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1150.000000, -1756.000000)">
+            <g id="编组-8" transform="translate(0.000000, 1595.000000)">
+                <g id="编组-35" transform="translate(1151.000000, 161.000000)">
+                    <text id="文档中心" font-family="HanziPenSC-W5, HanziPen SC" font-size="16" font-weight="bold" fill="#444E60">
+                        <tspan x="41.04" y="17">文档中心</tspan>
+                    </text>
+                    <path d="M18.4288904,27.942072 C-18.3139526,11.7216556 9.46132835,69.5964546 20,32.1229906" id="路径-57" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M35,13 C18.3669217,21.018029 23.3601411,16.4975127 17,23" id="路径-61" stroke="#444E60" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
